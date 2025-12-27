@@ -2,7 +2,7 @@
 title: "Tugas Mata Praktikum"
 description: "Isi nya berhubungan dengan tugas praktikum sekarang."
 author: udin
-date: date: 2025-12-27 07:00:00 +0700
+date: 2025-12-27 07:00:00 +0700
 categories: [Tugas, MatPrak]
 tags: [tugas, homework, tugas-prak]
 pin: true
