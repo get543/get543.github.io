@@ -24,7 +24,7 @@ mermaid: false
   - [IMK](#imk)
     - [TEMPLATE IMK](#template-imk)
   - [GrafKom](#grafkom)
-    - [INFORMASI UJIAN](#informasi-ujian-1)
+    - [INFORMASI UJIAN](#informasi-ujian)
   - [AI](#ai)
     - [Bahan Belajar Ujian](#bahan-belajar-ujian)
   - [SBD1](#sbd1)
@@ -107,7 +107,7 @@ Link template Manual Book & Repository pada forum [ujian](https://praktikum.guna
 
 ---
 
-#### ⚠️ Aturan & Larangan
+#### Aturan & Larangan
 
 - ❌ **Dilarang melakukan plagiarisme.**
     

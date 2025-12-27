@@ -100,7 +100,7 @@ mermaid: false
 - [Customise Terminal Prompt](#customise-terminal-prompt)
     - [Step To Do](#step-to-do)
 - [Fixing OBS Error when Installing](#fixing-obs-error-when-installing)
-- [Fixing Printer & Scanner Error](#fixing-printer-scanner-error)
+- [Fixing Printer & Scanner Error](#fixing-printer--scanner-error)
 - [Replace 'apt' With 'nala'](#replace-apt-with-nala)
     - [Installation](#installation)
     - [Change 'apt' to 'nala'](#change-apt-to-nala)
@@ -115,11 +115,11 @@ mermaid: false
 - [Blackscreen on XFCE in Virt-Manager using 3D Acceleration](#blackscreen-on-xfce-in-virt-manager-using-3d-acceleration)
 - [Terminal Window Title Show Running Command](#terminal-window-title-show-running-command)
 - [Dealing With Disk Permissions](#dealing-with-disk-permissions)
-  - [Unmount & remount with different permission](#unmount-remount-with-different-permission)
+  - [Unmount & remount with different permission](#unmount--remount-with-different-permission)
   - [Mount disk to startup applications](#mount-disk-to-startup-applications)
   - [Change ownership of a folder](#change-ownership-of-a-folder)
 - [Bash Completion Case Insensitive](#bash-completion-case-insensitive)
-- [Thunar Change  Default Terminal](#thunar-change-default-terminal)
+- [Thunar Change Default Terminal](#thunar-change-default-terminal)
 - [Change from `Bash` to `Zsh`](#change-from-bash-to-zsh)
   - [Zsh Installation](#zsh-installation)
   - [Installing Oh-My-Zsh](#installing-oh-my-zsh)
@@ -1562,7 +1562,7 @@ bind -s 'set completion-ignore-case on'
 ```
 
 
-# Thunar Change  Default Terminal
+# Thunar Change Default Terminal
 Create a file and edit it
 
 ```bash

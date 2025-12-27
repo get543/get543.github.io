@@ -274,7 +274,7 @@ Kel max 5 org
 
 [Kliping Bajingan](https://chatgpt.com/share/691c5596-bb80-800c-ace8-05ef3755d495)
 
-[Kliping Tutorial](~https://youtu.be/jrYMKk7TNc4?si=6LTCqm3WlY5LctY4~)
+[Kliping Tutorial](https://youtu.be/jrYMKk7TNc4?si=6LTCqm3WlY5LctY4)
 
 
 > ### *UTS Grafkom:*
