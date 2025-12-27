@@ -4,7 +4,7 @@ description: "Something that I find usefull when daily driving linux."
 author: udin
 date: 2025-12-27 07:00:00 +0700
 categories: [Linux, Guide]
-tags: [linux]
+tags: [linux, ultimate-linux-guide-for-beginner]
 pin: false
 math: false
 mermaid: false
