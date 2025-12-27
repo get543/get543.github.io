@@ -10,6 +10,30 @@ math: false
 mermaid: false
 ---
 
+## Table of Contents
+
+- [Perancangan & Analisis Algoritma](#perancangan--analisis-algoritma)
+- [Sistem Keamanan Komputer](#sistem-keamanan-komputer)
+- [Sistem Basis Data 1](#sistem-basis-data-1)
+  - [Tugas Kelompok](#tugas-kelompok)
+- [Interaksi Manusia & Komputer](#interaksi-manusia--komputer)
+  - [Tugas Besar (Minggu 11)](#tugas-besar-minggu-11)
+  - [UTS](#uts)
+  - [Tugas Besar](#tugas-besar)
+  - [Yang harus di perbaiki](#yang-harus-di-perbaiki)
+- [Pemrograman WEB](#pemrograman-web)
+  - [Tugas 1](#tugas-1)
+  - [Tugas 2](#tugas-2)
+  - [Tugas 3](#tugas-3)
+  - [Tugas 4](#tugas-4)
+  - [Tugas 5](#tugas-5)
+  - [VCLASS](#vclass)
+- [Grafik Komputer](#grafik-komputer)
+- [Jaringan Komputer](#jaringan-komputer)
+- [Kecerdasan Artificial](#kecerdasan-artificial)
+  - [Tugas](#tugas)
+  - [Tugas VClass](#tugas-vclass)
+
 
 > # Link Tugas
 > # Daftar Tugas Notion

@@ -11,6 +11,27 @@ mermaid: false
 
 ---
 
+## Table of Contents
+
+- [==Praktikum==](#praktikum)
+  - [PWEB](#pweb)
+    - [INFORMASI UMUM](#informasi-umum)
+    - [Timeline Ujian](#timeline-ujian)
+    - [Template & Berkas yang Dikumpulkan](#template--berkas-yang-dikumpulkan)
+    - [Ketentuan Project](#ketentuan-project)
+    - [Aturan & Larangan](#aturan--larangan)
+  - [PAA](#paa)
+  - [IMK](#imk)
+    - [TEMPLATE IMK](#template-imk)
+  - [GrafKom](#grafkom)
+    - [INFORMASI UJIAN](#informasi-ujian-1)
+  - [AI](#ai)
+    - [Bahan Belajar Ujian](#bahan-belajar-ujian)
+  - [SBD1](#sbd1)
+- [Praktikum Komputasi Big Data](#praktikum-komputasi-big-data)
+
+---
+---
 
 
 # ==Praktikum==
