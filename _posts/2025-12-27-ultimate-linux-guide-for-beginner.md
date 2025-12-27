@@ -148,7 +148,7 @@ mermaid: false
     - [Download Files](#download-files)
     - [Networking](#networking)
     - [System](#system)
-    - [Disk & File System](#disk-file-system)
+    - [Disk & File System](#disk--file-system)
     - [Check Logs](#check-logs)
     - [Read Files](#read-files)
     - [Manipulating Text Files](#manipulating-text-files)
