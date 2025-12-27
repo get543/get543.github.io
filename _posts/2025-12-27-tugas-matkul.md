@@ -1,9 +1,9 @@
 ---
-title: Tugas Mata Kuliah
-description: Isi nya tugas yang berhubungan sama mata kuliah sekarang.
+title: "Tugas Mata Kuliah"
+description: "Isi nya tugas yang berhubungan sama mata kuliah sekarang."
 categories: [Tugas, MatKul]
 author: udin
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2025-12-27 07:00:00 +0700
 tags: [tugas, homework, tugas-matkul]
 pin: true
 math: false
