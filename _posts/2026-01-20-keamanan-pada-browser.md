@@ -3,7 +3,7 @@ title: "Keamanan Web Browser"
 description: "Yuk, Amankan Web Browser Kamu!"
 author: udin
 date: 2026-01-20 07:00:00 +0700
-categories: [Tugas, MatPrak]
+categories: [Tugas, MatKul]
 tags: [tugas, homework, tugas-matkul, skk, sistem-keamanan-komputer]
 pin: false
 math: false

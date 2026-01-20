@@ -3,7 +3,7 @@ title: "Mengenal Firewall"
 description: "Di era digital saat ini, ancaman terhadap keamanan komputer semakin meningkat. Setiap hari, jutaan serangan siber terjadi di seluruh dunia, mulai dari pencurian data hingga penyebaran malware. Salah satu cara paling efektif untuk melindungi sistem dari serangan tersebut adalah dengan menggunakan firewall. Lalu, apa sebenarnya firewall itu dan bagaimana cara kerjanya? Mari kita bahas satu per satu."
 author: udin
 date: 2025-11-5 07:00:00 +0700
-categories: [Tugas, MatPrak]
+categories: [Tugas, MatKul]
 tags: [tugas, homework, tugas-matkul, skk, sistem-keamanan-komputer]
 pin: false
 math: false
