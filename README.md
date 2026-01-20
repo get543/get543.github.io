@@ -41,3 +41,17 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## Run Locally
+
+**1. Install Ruby**
+
+**2. Run this command**
+
+```cmd
+git clone https://github.com/get543/get543.github.io
+
+cd get543.github.io
+
+bundle exec jekyll serve
+```
