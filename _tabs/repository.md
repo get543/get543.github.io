@@ -5,8 +5,17 @@ icon: fas fa-code-branch
 order: 5
 ---
 
-# [get543 Repository](https://github.com/get543?tab=repositories){:target="_blank"}
-# [get543 Stars](https://github.com/get543?tab=stars){:target="_blank"}
+### [get543's Repository](https://github.com/get543?tab=repositories){:target="_blank"}
+### [get543's Stars](https://github.com/get543?tab=stars){:target="_blank"}
+
+## Full Stack
+
+### [wdms-app]("https://github.com/get543/wdms-app"){:target="_blank"}
+
+- Mobile with Flutter
+- Backend with Node Express
+- Frontend with React-Vite
+
 
 ## Bot
 
@@ -49,7 +58,7 @@ order: 5
 - AutoHotKey `ahk`
 - PowerShell `ps1`
 - Batch `bat`
-- Python
+- Python `.py`
 
 ### [Linux Scripting](https://github.com/get543/linux-beginner-guide){:target="_blank"}
 
