@@ -10,7 +10,7 @@ order: 5
 
 ## Full Stack
 
-### [wdms-app]("https://github.com/get543/wdms-app"){:target="_blank"}
+### [wdms-app](https://github.com/get543/wdms-app){:target="_blank"}
 
 - Mobile with Flutter
 - Backend with Node Express
