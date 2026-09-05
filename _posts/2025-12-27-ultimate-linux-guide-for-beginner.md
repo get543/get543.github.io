@@ -5,7 +5,7 @@ author: udin
 date: 2025-12-27 07:00:00 +0700
 categories: [Linux, Guide]
 tags: [linux, ultimate-linux-guide-for-beginner]
-pin: false
+pin: true
 math: false
 mermaid: false
 ---
